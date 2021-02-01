@@ -1,0 +1,87 @@
+
+:root{
+  --global-font: 'Poppins', sans-serif;
+  --font-Spirax: 'Spirax', sans-serif;
+  --main: #007bff;
+  --background_color: white;
+  --background_color2: #F5F5F5;
+  --border_color: white;
+  --text_color: #293A62;
+  --text_color_2: #aaa;
+  --text_color_3: #FCFCFC ;
+}
+
+body {
+  margin: 0;
+  font-family: var(--global-font);
+  background-color: var(--main);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  z-index: 0;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.theme_color {
+  background-color: var(--background_color)!important;
+  color: var(--text_color)!important;
+}
+
+.text_color_main {
+  color: var(--main)!important;
+}
+
+.pointer {
+  cursor: pointer!important;
+}
+
+.left_zero {
+  padding-left: 0px!important;
+}
+
+
+.btn_outlined {
+  color: var(--main)!important;
+  border-color: var(--main)!important;
+  border-radius: 50px!important;
+}
+
+.btn_outlined:hover {
+  background-color: var(--main)!important;
+  color: var(--background_color) !important;
+}
+
+.block_title h2:after
+{
+  display: block;
+  position: absolute;
+  content: '';
+  width: 30px;
+  background-color: var(--main) !important;
+  height: 2px;
+  bottom: 0;
+}
+
+.block_title h2:before
+{
+  display: block;
+  position: absolute;
+  content: '';
+  width: 100%;
+  background-color: grey !important;
+  height: 2px;
+  bottom: 0;
+}
+
+.block_title h2
+{
+  display: inline-block!important;
+  position: relative!important;
+  font-size: 21px;
+  margin: 0 0 30px;
+  z-index: 1;
+  padding-bottom: 7px;
+}

@@ -1,0 +1,12 @@
+.background_color{
+    background-color: #FCFCFC;
+}
+
+.font_capitalize {
+    text-transform: uppercase;
+}
+
+.page_header {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}

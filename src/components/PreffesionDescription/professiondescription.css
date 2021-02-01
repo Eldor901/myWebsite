@@ -1,0 +1,16 @@
+.zero_margin
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.block_description
+{
+    min-width: 300px;
+    margin-bottom: 20px!important;
+}
+
+
+@media screen and (max-width: 960px) {
+
+}

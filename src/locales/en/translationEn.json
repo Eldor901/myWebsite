@@ -1,0 +1,104 @@
+{
+  "name": "Eldor",
+  "surname": "Ergashev",
+  "nav": {
+    "about": "About",
+    "portfolio": "Portfolio",
+    "resume": "Resume",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "softwareEngineer": "software engineer",
+  "eldorErgashev": "ELDOR ERGASHEV",
+  "quote_description": " A simple act of caring creates an endless ripple that comes back to you",
+  "downloadCv": "Download cv",
+  "myInterests": "My interests",
+  "interests_football": {
+    "title": "Football",
+    "description": "I am a fan of playing football and living a healthy lifestyle. every week I go out with friends to the football. As a child i played in youth team of tashkent"
+  },
+  "interests_music": {
+    "title": "Music",
+    "description": "I like listening to and composing music. At my free time I write music  at FL studio, I also like playing  guitar, although I am bad on it"
+  },
+  "what_i_do": "What i do",
+  "what_i_do_backend": {
+    "title": "Backend",
+    "desc": "Back-end developers are responsible for creating a 'server' part in web applications, in other words, they deal with everything related to the software-administrative part of a web application, the internal content of the system, server technologies - databases, architecture, software logic."
+  },
+  "what_i_do_frontend": {
+    "title": "Frontend",
+    "desc": "engaged in the development of the user interface, that is, the external public part of the site in the browser.front-end developers job is to make the interaction of users with the site or web application as convenient as possible."
+  },
+  "what_i_do_Mobile": {
+    "title": "Mobile",
+    "desc": "A mobile developer is a specialist who develops software applications for various mobile devices: tablets, smartphones."
+  },
+  "what_i_do_Desctop": {
+    "title": "Desctop",
+    "desc": "A Desktop developer is a specialist who develops software applications for various desktops that runs on different operation systems"
+  },
+  "resume": "resume",
+  "education": "Education",
+  "education_university": {
+    "year": "2017 - now",
+    "year_content": "university education",
+    "desc_year": "i have been studying in volga state university in russia and my major is software engineering.",
+    "title_year": "volga state university of technology"
+  },
+  "education_lyceum": {
+    "year": "2014 - 2017",
+    "year_content": "lyceum education",
+    "desc_year": "i have studied exact sciences economics in lyceum of diplomacy and world economy.",
+    "title_year": "diplomacy lyceum"
+  },
+  "experience": "Experience",
+  "experience_novolab": {
+    "year": "2020 - 2021",
+    "year_content": "work experience",
+    "desc_year": "i have worked as frontend developer and was responsible for creating interactive websites used Vue and React.",
+    "title_year": "Novalab"
+  },
+  "experience_Omega_r": {
+    "year": "2019 - 2020",
+    "year_content": "work experience",
+    "desc_year": "i have worked as training intern using nest js framework. During internship i have learned backend and databases such as mysql, mongodb.",
+    "title_year": "Omega-r"
+  },
+  "frontend_skills": "Frontend skills",
+  "framework_JS": {
+    "title": "JS Libraries",
+    "description": "React, Angular, Vue, jquery"
+  },
+  "framework_UI": {
+    "title": "UI Libraries",
+    "description": "zurb foundation, bootstrap, materializecss, react material, react ant design, vue quasar, vuetify, Angular material"
+  },
+  "backend_skills": "Backend skills",
+  "framework_PHP" : {
+    "title": "PHP",
+    "description": "Laravel, laravel orm, blade Templates"
+  },
+  "framework_NODEJS": {
+    "title": "NODE.JS",
+    "description": "express, nestjs, typeorm, mongoose odm"
+  },
+  "framework_C#": {
+    "title": "C#",
+    "description": "ASP.NET Core, entity framework"
+  },
+  "map_location": "Map location",
+  "get_in_touch": "Get in touch",
+  "contact_info_mobile": {
+    "title": "+79053143848",
+    "desc": "my mobile phone to contact"
+  },
+  "contact_info_city": {
+    "title": "Tashkent city",
+    "desc": "my place of residence is Tashkent city"
+  },
+  "contact_info_mail": {
+    "title": "eldor9012545@gmail.com",
+    "desc": "my mail to cЦontact"
+  }
+}

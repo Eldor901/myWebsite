@@ -1,0 +1,11 @@
+.img_overflow
+{
+    overflow: hidden;
+    cursor: default;
+}
+
+
+.cellHeight
+{
+    height: 360px!important;
+}
