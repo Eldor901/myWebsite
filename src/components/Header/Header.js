@@ -71,7 +71,7 @@ const Header = () => {
                         <Grid container >
                             <Grid item md={4} xs={10} className={`left_zero`}>
                                 <Grid container>
-                                    <img src={logo} width={'100px'}/>
+                                    <img src={logo} width={'100px'} height={`100px`}/>
                                     <Box display="flex" justifyContent="flex-start" mt={2}>
                                         <h3>{t("name")}</h3>
                                         <Box pl={1} pt={0.5}>
