@@ -75,7 +75,7 @@
     "description": "zurb foundation, bootstrap, materializecss, react material, react ant design, vue quasar, vuetify, Angular material"
   },
   "backend_skills": "Backend навыки",
-  "framework_PHP" : {
+  "framework_PHP": {
     "title": "PHP",
     "description": "Laravel, laravel orm, blade Templates"
   },

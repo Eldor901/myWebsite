@@ -1,19 +1,18 @@
 .container {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 
 .card_container {
-    border-radius: 40px!important;
+  border-radius: 40px !important;
 }
 
 @media screen and (max-width: 960px) {
-   .container {
-       margin-top: 0px!important;
-       padding-left: 0px!important;
-       padding-right: 0px!important;
-   }
+  .container {
+    margin-top: 0px !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+  }
 
-   .card_container {
-
-   }
+  .card_container {
+  }
 }

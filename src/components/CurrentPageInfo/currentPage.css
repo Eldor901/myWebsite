@@ -1,12 +1,12 @@
-.background_color{
-    background-color: #FCFCFC;
+.background_color {
+  background-color: #fcfcfc;
 }
 
 .font_capitalize {
-    text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 .page_header {
-    margin-top: 50px;
-    margin-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: 50px;
 }
