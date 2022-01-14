@@ -4,7 +4,7 @@ import { Box, Button, Grid } from "@material-ui/core";
 import "./home.css";
 import Introduction from "../../components/Introduction/Introduction";
 import WhatIDo from "../../components/WhatIDo/WhatIDo";
-import Interests from "../../components/Interests/Interests";
+import AboutMe from "../../components/AboutMe/AboutMe";
 import { useTranslation } from "react-i18next";
 
 const Home = () => {
@@ -16,7 +16,7 @@ const Home = () => {
       <Box mt={5} mb={5} ml={2} mr={2}>
         <Grid container>
           <Introduction />
-          <Interests />
+          <AboutMe />
           <WhatIDo />
         </Grid>
       </Box>

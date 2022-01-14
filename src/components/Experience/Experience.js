@@ -11,6 +11,12 @@ const Experience = () => {
         <h2>{t("experience")}</h2>
       </div>
       <ResumeInfo
+        year={t("experience_leviosa.year")}
+        year_content={t("experience_leviosa.year_content")}
+        desc_year={t("experience_leviosa.desc_year")}
+        title_year={t("experience_leviosa.title_year")}
+      />
+      <ResumeInfo
         year={t("experience_novolab.year")}
         year_content={t("experience_novolab.year_content")}
         desc_year={t("experience_novolab.desc_year")}

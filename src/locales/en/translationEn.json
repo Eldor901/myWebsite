@@ -12,10 +12,10 @@
   "eldorErgashev": "ELDOR ERGASHEV",
   "quote_description": " A simple act of caring creates an endless ripple that comes back to you",
   "downloadCv": "Download cv",
-  "myInterests": "My interests",
-  "interests_football": {
-    "title": "Football",
-    "description": "I am a fan of playing football and living a healthy lifestyle. every week I go out with friends to the football. As a child i played in youth team of tashkent"
+  "summary": "Summary",
+  "aboutMe": {
+    "title": "AboutMe",
+    "description": "Hello my is Eldor Ergashev 23 years old software engineer from Tashkent. I create software solutions for desctop, mobile, web and other devices. I am in software development since 2017. I admire what i do so the word \"this is can not be done\" doesn't exsit for me."
   },
   "interests_music": {
     "title": "Music",
@@ -53,6 +53,12 @@
     "title_year": "diplomacy lyceum"
   },
   "experience": "Experience",
+  "experience_leviosa": {
+    "year": "2021 - current time",
+    "year_content": "work experience",
+    "desc_year": "I have been working as fullstack  developer with stack technologies React, nodejs, graphql",
+    "title_year": "Leviosa"
+  },
   "experience_novolab": {
     "year": "2020 - 2021",
     "year_content": "work experience",
