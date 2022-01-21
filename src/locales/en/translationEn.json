@@ -44,13 +44,13 @@
     "year": "2017 - now",
     "year_content": "university education",
     "desc_year": "i have been studying in volga state university in russia and my major is software engineering.",
-    "title_year": "volga state university of technology"
+    "title_year": "Volga state university of technology"
   },
   "education_lyceum": {
     "year": "2014 - 2017",
     "year_content": "lyceum education",
     "desc_year": "i have studied exact sciences economics in lyceum of diplomacy and world economy.",
-    "title_year": "diplomacy lyceum"
+    "title_year": "Lyceum of Diplomacy and World Economy"
   },
   "experience": "Experience",
   "experience_leviosa": {
@@ -78,7 +78,7 @@
   },
   "framework_UI": {
     "title": "UI Libraries",
-    "description": "zurb foundation, bootstrap, materializecss, react material, react ant design, vue quasar, vuetify, Angular material"
+    "description": "Zurb foundation, Bootstrap, Materializecss, React material ui, react ant design, vue quasar, vuetify, Angular material"
   },
   "backend_skills": "Backend skills",
   "framework_PHP": {

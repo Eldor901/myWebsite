@@ -2,7 +2,6 @@ import React from "react";
 import { Box, Grid } from "@material-ui/core";
 import ProffesionDescription from "../PreffesionDescription/ProffesionDescription";
 import "./aboutMe.css";
-import aboutME from "../../../src/assests/image/AboutMe/about.jpeg";
 import { useTranslation } from "react-i18next";
 
 const AboutMe = () => {
@@ -18,7 +17,6 @@ const AboutMe = () => {
           <ProffesionDescription
             desc={t("aboutMe.description")}
             title={t("aboutMe.title")}
-            img={aboutME}
           />
         </Grid>
       </Box>
