@@ -7,8 +7,20 @@ import Gears from "../../assests/image/portfoliyo/Gears/Screenshot_1.png";
 import ReactNativeRestarant from "../../assests/image/portfoliyo/ReactNativeRestaurant/resize-161174618134755051082740931efd954809d5511ea830c76aa01c0bcc6.jpg";
 import RestaurantAngular from "../../assests/image/portfoliyo/Restaurant/87018c00-694b-11e9-8b5f-c34826306d36.png";
 import Intersteller from "../../assests/image/portfoliyo/GameInterstaller/Screenshot_3.png";
+import Arfit from "../../assests/image/portfoliyo/ArFit/ArFit.png";
 
 export const data = [
+  {
+    img: kids,
+    title: "Sport for Kids",
+    cols: "12",
+    video: "https://youtu.be/n8yISouWh1A",
+    content: `
+          <p>
+            This project helps children develop in the sports field. There are many different entertainment programs. I was responsible for creating different games
+          </p>
+        `,
+  },
   {
     img: metsenat,
     title: "Metsenat",
@@ -17,19 +29,18 @@ export const data = [
     content: `
           <p>This project is based in Uzbekistan and the goal of the project is to help a student from Uzbekistan to receive material assistance for studying at a higher institution. I was directly responsible for the admin panel where the Maecenas can insert 
           different types of grants and the students can subscribe, the Maecenas then selects the necessary candidates and helps the students
-            <a href="https://metsenat.uz/">go to website -></a>
           </p>
         `,
   },
   {
-    img: kids,
-    title: "Sport for Kids",
+    img: Arfit,
+    title: "Arfit",
     cols: "6",
-    video: "https://youtu.be/n8yISouWh1A",
+    video: "https://youtu.be/ZLeL5omoMLc",
     content: `
           <p>
-            This project helps children develop in the sports field. there are many different entertainment programs. I was responsible for creating different games
-            <a href="https://kids.sport.uz/">visit website -></a>
+          Arfit desctop application for selling shoes with augmented reality technologies. People buy shoes with possibilities try on thier foot just using camera of phone. I was responsible for creating admin panel for sellers and moderators
+          <a href="https://drive.google.com/drive/folders/1j95UbeshHYC2crM572tbTrhkQq3LaZ1w">Look mobile app version -></a>
           </p>
         `,
   },
@@ -50,7 +61,7 @@ export const data = [
     cols: "6",
     video: "https://youtu.be/rI3NizP6zn0",
     content: `
-          <p>game educational project whose goal is to guess where the gear will turn in the end. I was responsible for creating levels with night mode
+          <p>Game educational project whose goal is to guess where the gear will turn in the end. I was responsible for creating levels with night mode
 </p>
         `,
   },
@@ -66,11 +77,11 @@ export const data = [
   },
   {
     img: apteka,
-    title: "market",
+    title: "Market",
     cols: "6",
     content: `
           <p>
-            admin control panel with store goods. where the seller makes different leverage with the goods. find out the number of goods in the warehouse. add goods to delete, send goods to goods and different filals, etc.
+            Admin control panel with store goods. Where the seller makes different leverage with the goods. Find out the number of goods in the warehouse. add goods to delete, send goods to goods and different filals, etc.
            </p>
         `,
   },
@@ -82,7 +93,7 @@ export const data = [
       "https://drive.google.com/file/d/1pm6eDUL1ZLpQBofv7Z43bN-HJJ_RxBq7/view?usp=sharing",
     content: `
           <p>
-            mobile application for finding a place in the city. in the search form, you can drive an interesting restaurant or food, as a result, it will give out different restaurants where you can buy searched food
+            Mobile application for finding a place in the city. In the search form, you can drive an interesting restaurant or food, as a result, it will give out different restaurants where you can buy searched food
           <a href="https://github.com/Eldor901/React-native-restaurant">look at source  code -></a>
           </p>
         `,
@@ -92,7 +103,7 @@ export const data = [
     title: "Game Interstellor",
     cols: "4",
     content: `
-          <p>The game that was made in the first year of study at the university. the goal of the game is to shoot down asteroids and win the game</p>
+          <p>The game that was made in the first year of study at the university. The goal of the game is to shoot down asteroids and win the game</p>
           <a href="https://github.com/Eldor901/Game-Project-Interstellor">look at source  code -></a>
         `,
   },

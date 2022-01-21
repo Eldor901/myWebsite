@@ -1,15 +1,9 @@
+import { Box, GridList, GridListTile, makeStyles } from "@material-ui/core";
 import React from "react";
-import CurrentPage from "../../components/CurrentPageInfo/CurrentPage";
-import {
-  Box,
-  Grid,
-  GridList,
-  GridListTile,
-  makeStyles,
-} from "@material-ui/core";
-import data from "./data";
-import Image from "../../components/Image/Image";
 import { useTranslation } from "react-i18next";
+import CurrentPage from "../../components/CurrentPageInfo/CurrentPage";
+import Image from "../../components/Image/Image";
+import data from "./data";
 
 const useStyles = makeStyles((theme) => ({
   root: {
