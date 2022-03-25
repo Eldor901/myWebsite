@@ -9,6 +9,14 @@ const Introduction = () => {
   const { t } = useTranslation();
   let history = useHistory();
 
+  const onDownload = () => {
+    console.log("sd");
+    const link = document.createElement("a");
+    link.download = `EldorErgashev.pdf`;
+    link.href = "./CV.pdf";
+    link.click();
+  };
+
   return (
     <>
       <Grid item md={5} xs={12}>
@@ -32,7 +40,11 @@ const Introduction = () => {
           >
             {t("nav.contact")}
           </Button>
-          <Button variant="outlined" className={`btn_outlined`}>
+          <Button
+            onClick={onDownload}
+            variant="outlined"
+            className={`btn_outlined`}
+          >
             {t("downloadCv")}
           </Button>
         </Box>
